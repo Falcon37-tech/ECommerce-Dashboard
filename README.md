@@ -21,7 +21,7 @@ The goal is to provide **data-driven strategies** to better understand e-commerc
 - **Power Query** → Data transformation and cleaning  
 - **DAX (Data Analysis Expressions)** → Calculated measures, dynamic visuals, and logic  
 - **Data Modeling** → Relationships between tables (e.g., Amount by State, Category, Payment Mode)  
-- **File Formats** → `.pbix` (development), `.csv` (data import), `.png` (dashboard previews)
+- **File Formats** → `.pbix` (development), `.csv` (data import - [Details](Details.csv), [Orders](), `.png` (dashboard previews)
 
 ---
 
