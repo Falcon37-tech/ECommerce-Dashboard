@@ -43,4 +43,4 @@ The goal is to provide **data-driven strategies** to better understand e-commerc
 
 ## 🖼️ Screenshots / Demo
 
-(Data_analyzed-Dashboard-Screenshot.png)  
+[Screenshot](Data_analyzed-Dashboard-Screenshot.png)
