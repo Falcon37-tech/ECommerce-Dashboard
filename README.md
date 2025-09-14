@@ -1,34 +1,46 @@
-# ECommerce-Dashboard
+# 📊 ECommerce-Dashboard
 
-Sales Data Analytics: An Interactive Dashboard to Track and Analyse Online Sales Data
+**Sales Data Analytics: An Interactive Dashboard to Track and Analyse Online Sales Data**
 
-The E-commerce Sales Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare sales reports from over 19 states across India. The Dashboard focuses on highlighting major sales features like the Highest and Lowest buyers in different states, and data-driven strategies that seek to understand the characteristics of e-commerce sales.
+The **E-Commerce Sales Dashboard** is an interactive Power BI report designed to explore and compare sales performance across **19+ states in India**.  
 
-The Dashboard was built using the following tools and technologies:
-Power BI Desktop - The Main Data visualisation platform used for report creation.
-Power Query - Data Transformation and clearing layer for reshaping and preparing for data.
-DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals, and conditional logic
-Data Modeling - Relationships established among tables (Amount by state, Quantity by Category and PaymentMode) to enable cross filtering and aggregation.
-File Format - .pbix for development and .png for dashboard previews. and .csv files for data Import-Experimenting!
+This dashboard highlights key insights such as:
+- Highest and lowest buyers by state  
+- Revenue contribution by category and customer  
+- Payment mode preferences  
+- Quarterly performance trends  
 
-Use of this Dashboard:
-Business Problem - Problem ww have a big sales across the country, we need to 
-Goal of the dashboard - To see it visually and predict the future changes and implementation.
+The goal is to provide **data-driven strategies** to better understand e-commerce sales and support business decision-making.
 
-Charts-
-Sum of Amount by States
-This shows the top-most states' sum of the amount
-Sum of Quantity by Payment Mode
-This shows how they are paying by using EMIs, Cash on Delivery, Debit Card, Credit Card, UPT etc
-Sum of Amount by customer name
-This shows the richest customer, because they are giving us profit
-Sum of quantity by category
-It shows the category that is the highest and lowest(Furniture, Electrical, Clothing)
-Quarters
-I kept 4 quarters to check the impact overall in each quarter
+---
 
-Screenshots/Demos
-Show what the dashboard looks like -
+## 🛠 Tools & Technologies
 
+- **Power BI Desktop** → Main platform for dashboard creation  
+- **Power Query** → Data transformation and cleaning  
+- **DAX (Data Analysis Expressions)** → Calculated measures, dynamic visuals, and logic  
+- **Data Modeling** → Relationships between tables (e.g., Amount by State, Category, Payment Mode)  
+- **File Formats** → `.pbix` (development), `.csv` (data import), `.png` (dashboard previews)
 
+---
 
+## 🎯 Use Case
+
+- **Business Problem**: Large sales volumes across India, but limited visibility into performance.  
+- **Dashboard Goal**: Visualize sales trends, track top customers and categories, analyze quarterly performance, and support forecasting.  
+
+---
+
+## 📈 Dashboard Insights
+
+- **Sales by State** → Identifies top-performing states by revenue  
+- **Quantity by Payment Mode** → Breaks down payments (EMI, COD, Debit/Credit Cards, UPI, etc.)  
+- **Sales by Customer** → Highlights the most profitable customers  
+- **Quantity by Category** → Shows best- and worst-performing categories (Furniture, Electricals, Clothing, etc.)  
+- **Quarterly Analysis** → Tracks performance across 4 quarters  
+
+---
+
+## 🖼️ Screenshots / Demo
+
+(Add screenshots of your Power BI dashboard here)  
