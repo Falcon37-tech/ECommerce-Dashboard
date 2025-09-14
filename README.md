@@ -43,4 +43,4 @@ The goal is to provide **data-driven strategies** to better understand e-commerc
 
 ## 🖼️ Screenshots / Demo
 
-(Add screenshots of your Power BI dashboard here)  
+(Data_analyzed-Dashboard-Screenshot.png)  
