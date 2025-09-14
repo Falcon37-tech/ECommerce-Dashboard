@@ -8,7 +8,8 @@ This dashboard highlights key insights such as:
 - Highest and lowest buyers by state  
 - Revenue contribution by category and customer  
 - Payment mode preferences  
-- Quarterly performance trends  
+- Quarterly performance trends
+- Give Recommendations to the Richest Buyers
 
 The goal is to provide **data-driven strategies** to better understand e-commerce sales and support business decision-making.
 
@@ -27,7 +28,7 @@ The goal is to provide **data-driven strategies** to better understand e-commerc
 ## 🎯 Use Case
 
 - **Business Problem**: Large sales volumes across India, but limited visibility into performance.  
-- **Dashboard Goal**: Visualize sales trends, track top customers and categories, analyze quarterly performance, and support forecasting.  
+- **Dashboard Goal**: Visualise sales trends, track top customers and categories, analyse quarterly performance, and support forecasting.  
 
 ---
 
